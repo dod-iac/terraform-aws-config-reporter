@@ -31,7 +31,7 @@ Resources:
 | Name | Source | Version |
 |------|--------|---------|
 | <a name="module_aws_config"></a> [aws\_config](#module\_aws\_config) | trussworks/config/aws | ~> 4.5 |
-| <a name="module_logs"></a> [logs](#module\_logs) | trussworks/logs/aws | >11.0.0 |
+| <a name="module_logs"></a> [logs](#module\_logs) | trussworks/logs/aws | >=11.0.0 |
 
 ## Resources
 

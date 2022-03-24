@@ -84,7 +84,7 @@ module "logs" {
   allow_config       = true
   config_logs_prefix = "config"
   force_destroy      = true
-  version            = ">11.0.0"
+  version            = ">=11.0.0"
 }
 
 
