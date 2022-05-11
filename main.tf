@@ -85,6 +85,8 @@ module "logs" {
   config_logs_prefix = "config"
   force_destroy      = true
   version            = ">=11.0.0"
+  versioning_status  = "Suspended"
+
 }
 
 
